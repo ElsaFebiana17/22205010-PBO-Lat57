@@ -4,6 +4,10 @@
  */
 package pkg22205011.lat57.java;
 /**
+*Nama : Elsa Febiana 
+*NIM : 22205010
+*Prodi : Teknik Informatika
+*Semester : 3
  * @param args the command line arguments
  */
 class Vehicle {
